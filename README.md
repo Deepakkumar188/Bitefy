@@ -290,8 +290,8 @@ npm run build
 
 ## 🤝 Team
 
-**Founder & Developer:** Garvit Sharma
-- IIT Bhilai Student
+**Founder & Developer:**  Deepak Kumar
+- RCET Student
 - Full Stack Developer
 - Learning: Django, React, DevOps
 
@@ -299,8 +299,8 @@ npm run build
 
 ## 📧 Contact
 
-- Email: giantgarvit@gmail.com
-- GitHub: @garvitshrma
+- Email: deepakkumarkhande01@gmail.com
+- GitHub: @Deepakkumar188
 
 
 ---
